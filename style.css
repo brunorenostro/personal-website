@@ -24,3 +24,13 @@ header div a{
 header div a:hover{
     color: palegoldenrod;
 }
+
+#wrapper{
+text-align: center;
+padding: 32px;
+
+}
+
+#wrapper img{
+    border-radius: 200px 5px;
+}
